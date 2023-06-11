@@ -1,0 +1,8 @@
+C:\Users\Dudu\source\repos\AtividadeAula06CondicoesParte2\AtividadeAula06CondicoesParte2\bin\Debug\AtividadeAula06CondicoesParte2.exe.config
+C:\Users\Dudu\source\repos\AtividadeAula06CondicoesParte2\AtividadeAula06CondicoesParte2\bin\Debug\AtividadeAula06CondicoesParte2.exe
+C:\Users\Dudu\source\repos\AtividadeAula06CondicoesParte2\AtividadeAula06CondicoesParte2\bin\Debug\AtividadeAula06CondicoesParte2.pdb
+C:\Users\Dudu\source\repos\AtividadeAula06CondicoesParte2\AtividadeAula06CondicoesParte2\obj\Debug\AtividadeAula06CondicoesParte2.csproj.AssemblyReference.cache
+C:\Users\Dudu\source\repos\AtividadeAula06CondicoesParte2\AtividadeAula06CondicoesParte2\obj\Debug\AtividadeAula06CondicoesParte2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\source\repos\AtividadeAula06CondicoesParte2\AtividadeAula06CondicoesParte2\obj\Debug\AtividadeAula06CondicoesParte2.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\source\repos\AtividadeAula06CondicoesParte2\AtividadeAula06CondicoesParte2\obj\Debug\AtividadeAula06CondicoesParte2.exe
+C:\Users\Dudu\source\repos\AtividadeAula06CondicoesParte2\AtividadeAula06CondicoesParte2\obj\Debug\AtividadeAula06CondicoesParte2.pdb
